@@ -1,9 +1,9 @@
 streamlit==1.32.2
 python-dotenv==1.0.1
-deepseek==0.2.0
 edge-tts==6.1.9
 yt-dlp
 moviepy==1.0.3
 Pillow==10.2.0
 numpy==1.26.4
 requests==2.31.0
+openai
